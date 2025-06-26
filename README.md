@@ -6,6 +6,7 @@
 
 This project focuses on **data cleaning** and **data analysis** using SQL to derive business insights from a retail sales dataset. The dataset includes transactional data such as customer information, product category, quantity sold, and sales amount.
 
+
 ---
 
 ## 📂 Dataset Schema
